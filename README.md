@@ -1,0 +1,1 @@
+This is the Odin Project work flow. My ambition is to learn correctly how to create a website completely. This is my starting point, but more then likely not the end point.
